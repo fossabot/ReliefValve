@@ -1,6 +1,7 @@
 # ![ReliefValve icon](https://cloud.githubusercontent.com/assets/18404758/24127483/f846e6f0-0da2-11e7-9d27-ddcdafe026ff.png)ReliefValve
 
 [![Travis-CI Build Status](https://travis-ci.org/l3laze/ReliefValve.svg?branch=master)](https://travis-ci.org/l3laze/ReliefValve) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/x6rj9gyaqm9o7bje?svg=true)](https://ci.appveyor.com/project/l3laze/ReliefValve)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fl3laze%2FReliefValve.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fl3laze%2FReliefValve?ref=badge_shield)
 
 
 [![Libraries.io for GitHub](https://img.shields.io/librariesio/github/l3laze/ReliefValve.svg)](https://github.com/l3laze/ReliefValve/issues)
@@ -236,6 +237,9 @@ This is an unsigned application and it will not run on Windows or Mac without fi
 Distributed under the MIT license. See [LICENSE](https://github.com/l3laze/ReliefValve/blob/master/LICENSE.md) for more information.
 
 --------------------------------------------------------------------------------
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fl3laze%2FReliefValve.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fl3laze%2FReliefValve?ref=badge_large)
 
 # Contact
 
